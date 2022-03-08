@@ -1,0 +1,33 @@
+h1{
+ color: navy;
+ text-align: center;
+}
+.student{
+    text-align:center;
+    height: 200px;
+}
+body{
+    background-color:rgb(196, 191, 191);
+    border: 100px;
+
+}
+.container{
+    margin: auto;
+}
+button{
+    padding: 5px;
+    font-size: 1em;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+    background-color: orange ;
+    color :bisque
+    
+}
+.output{
+    border-style:solid ;
+    border-width: 2px 2px ;
+    height: 50px;
+    border-color: white;
+    border-radius:50px  ;
+    
+}
